@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="달력"
+        android:enabled="true"
+        android:id="@+id/menu_calendar"
+        android:icon="@drawable/calendar" />
+    <item
+        android:title="홈"
+        android:enabled="true"
+        android:id="@+id/menu_home"
+        android:icon="@drawable/home" />
+    <item
+        android:title="마이 페이지"
+        android:enabled="true"
+        android:id="@+id/mypage"
+        android:icon="@drawable/mypage" />
+</menu>
